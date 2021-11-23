@@ -1,6 +1,6 @@
 # public-rep
 
-# This repository/README serves as a message to those viewing this account - Contact the owner if you wish to see the private repositories or for more details
+This repository/README serves as a message to those viewing this account - Contact the owner if you wish to see the private repositories or for more details
 
 Private repositories contain projects for university projects which includes:
 
