@@ -4,11 +4,13 @@ This repository/README serves as a message to those viewing this account - Conta
 
 Private repositories contain projects for university group projects which includes:
 
+* (Python and MATLAB) Software Control and data graph plotting used in Raspberry Pi operation on a custom designed rig
+
+* (Java) STFP Server
+
 * (Python) Image recognition for animals which includes a machine learning algorithm
 
 * (Andriod and Java) Simple showcase application for Andriod
 
-* (Python and MATLAB) Software Control and data graph plotting used in Raspberry Pi operation on a custom designed rig
 
-* (Java) STFP Server
 
