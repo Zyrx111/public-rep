@@ -10,7 +10,7 @@ Private repositories contain projects for university group projects which includ
 
 * (Python) Image recognition for animals which includes a machine learning algorithm
 
-* (Andriod and Java) Simple showcase application for Andriod
+* (Android and Java) Simple showcase application for Android
 
 
 
